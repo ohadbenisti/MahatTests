@@ -1,0 +1,16 @@
+Question 3
+The Tank department has the following features:
+The capacity of the fuel tank - capacity, of integer type - int
+Amount of fuel - amount from a complete type - int
+In the Tank class, a constructor action has been defined that receives a parameter of each attribute and determines the values of
+bone properties. The class includes get/set operations for each of the attributes.
+(2 pts) A. Write a constructive operation that accepts the capacity of the fuel tank and produces an empty tank.
+(2 points) b. Write in the Tank class an internal operation that returns true if there is fuel in the tank, otherwise the operation returns false.
+(3 pts) C. Write in the Tank department an internal operation boolean is possible (int num, char op).
+The operation will receive the mission type op and the amount of fuel num.
+The task type can be one of the characters '+' or '-'.
+If op is equal to '+', the amount of fuel num must be added to the tank,
+If op is equal to '-', the amount of fuel num must be taken from the tank.
+If the task can be performed, the operation will return true , otherwise the operation will return false .
+(3 points (d. Write an external action static int fill Tank t 1, Tank t 2).
+The operation returns the maximum amount of fuel that can be transferred from tank t1 to tank t2.
