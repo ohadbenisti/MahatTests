@@ -1,0 +1,13 @@
+Question 4
+An array of integers is called "complete" if it satisfies the following conditions
+- The size of the array is an odd number.
+- In the first half of the array there are only single-digit positive numbers.
+- The central member (middle) is 0.
+- In the second half of the array there is not a single positive number.
+The array arr={1, 7,3, 0, 13, 131, 44} is a "perfect array" since it meets all four requirements.
+- The length of the array 7 is odd.
+- The first half } 1,7,3 { contains only single digit numbers.
+- The second half } 13,131,44 { does not contain single digit numbers.
+- The central member is 0.
+(8 points) a. Write an operation that receives an array of integers and returns a true value if it is a "perfect array", if not,
+The operation will return a false value.
