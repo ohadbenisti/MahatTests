@@ -1,0 +1,17 @@
+Question 2
+The Box class has four properties:
+
+Color - color, of the String type
+
+Length - length, of type integer - int
+
+Width - width, of integer type - int
+
+Height - height of integer type - int
+In the Box class, a constructor action has been defined that receives a parameter of each attribute and determines the values of
+bone properties. The class includes get/set operations for each of the attributes.
+(5 pts) A. Write a constructive operation that produces a box with the color color, all of whose dimensions (length, width and height) are equal to 10.
+Action title: public Box(String color) .
+(5 pts) b. Write an external operation that receives an array of references to objects of type Box named arr and returns the color of
+A box in the array with the smallest volume value. The title of the action public static String smallBox(Box[] arr) .
+Assumption: each cell in the array contains a reference to an object of type Box and there are no cells in the array whose value is equal to - null.
