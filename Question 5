@@ -1,0 +1,6 @@
+A string will be 'valid' if the character '.' appears in it (period) at least once, but not consecutively,
+and not at the beginning or the end of the string.
+for example:
+Valid strings: 'LiOnel.Messi'    'www.sport5.il'
+Invalid strings:    'abc..def'     '.ab.Cd'    'efG.'    'ABC'
+Write an action that accepts a string and returns true if the string is valid, otherwise it returns false.
