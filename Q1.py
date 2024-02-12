@@ -1,5 +1,7 @@
 #Q1
 
+
+
 z=0
 ez=0
 
@@ -17,7 +19,9 @@ for i in range (10):
         z+=1
     else:
         ez+=1
-        
+
+
+
 print()
 print()
 print()
