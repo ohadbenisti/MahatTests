@@ -2,9 +2,11 @@ Israeli Government Institute for Technological Training Test Solves
 
 
 Overview
+
 This repository contains my solutions to the tests conducted by the Israeli Government Institute for Technological Training. The tests follow a consistent structure, divided into three parts of increasing difficulty. Each test folder includes solutions for questions corresponding to each part.
 
 Usage
+
 In each test folder, you will find:
 
 Part 1: Brief description of the questions and their difficulty level.
