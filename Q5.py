@@ -1,3 +1,5 @@
+#Q5
+
 def Q5(s):
     if (s[0]=='.'   or    s[len(s)-1]=='.'):
         return False
